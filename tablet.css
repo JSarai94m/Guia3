@@ -1,0 +1,12 @@
+@media screen and (min-width: 481px) and (max-width: 768px) {
+    /* Estilos para tablets */
+    html {
+        font-size: 15px;
+    }
+    body {
+        background: color #FF9800;
+    }
+    div {
+        width: 85%;
+    }
+}
